@@ -49,9 +49,9 @@ A React application for browsing dog breed images from the [Dog CEO API](https:/
 ```
 src/
 ├── api/          # API fetch utilities
-├── components/   # React components (Card, MainCard)
+├── components/   # React components
 ├── types/        # TypeScript type definitions
-├── utils/        # Helper functions (breed parsing, etc.)
+├── utils/        # Helper functions
 ├── App.tsx       # Main app component
 └── main.tsx      # Entry point
 ```
